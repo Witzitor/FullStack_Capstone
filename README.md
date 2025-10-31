@@ -4,6 +4,9 @@ Files:
 
   * Rom Books.db - database file used for sql analysis
   * Authors2.ipynb - python file with code used to extract and analyze Good Reads data on authors from json to csv
-  * review_spoilers json to csv.ipynb - python file used to extract and analyze data on reviews with spoilers
-  * romance books & reviews json to csv.ipynb - python file used to extract and analyze data on Romance books and submitted reviews
+  * review_spoilers json to csv.ipynb - python file used to extract data on reviews with spoilers
+  * romance books & reviews json to csv.ipynb - python file used to extract data on Romance books and submitted reviews
   * romance interactions json to csv.ipynb - python file used to extract data on Romance reader interactions; this csv file was so large that I was unable to use it for my analysis
+  * Capstone Analysis1.ipynb - file where the bulk of the python analysis was conducted
+
+ Not Included: Tableau file as it was too large
